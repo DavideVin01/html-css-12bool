@@ -81,7 +81,7 @@ img {
     max-width: calc(100% / 12 * 11);
 }
 .col-10 {
-    flex-basis: calc(000% / 12 * 10);
+    flex-basis: calc(100% / 12 * 10);
     max-width: calc(100% / 12 * 10);
 }
 .col-9 {

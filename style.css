@@ -1,0 +1,13 @@
+body{
+    color: #fff;
+}
+
+.row{
+    /* border: 1px solid red; */
+}
+
+[class^="col"]{
+    background-color: dodgerblue;
+    border: 1px solid white;
+    height: 40px;
+}
